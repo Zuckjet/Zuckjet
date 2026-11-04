@@ -38,30 +38,41 @@
 
 ### 📌 Featured Project
 
-<p align="center">
-  <a href="https://github.com/Zuckjet/mock-type">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zuckjet&repo=mock-type&theme=tokyonight&hide_border=true" alt="mock-type" />
-  </a>
-</p>
+| Project | Description | Stars |
+| :-- | :-- | :-: |
+| [**mock-type**](https://github.com/Zuckjet/mock-type) | A tool to create mock data from TypeScript interfaces | ![stars](https://img.shields.io/github/stars/Zuckjet/mock-type?style=flat-square&color=f4c430) |
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zuckjet&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuckjet&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zuckjet&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zuckjet&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuckjet&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img src="./dist/github-snake.svg" alt="contribution snake" width="100%" />
+  </picture>
 </p>
+
+<sub>📈 Stats cards and snake are regenerated daily by [GitHub Actions](./.github/workflows/profile.yml).</sub>
 
 <!-- Footer -->
 <p align="center">
