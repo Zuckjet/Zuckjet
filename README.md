@@ -36,11 +36,30 @@
   </a>
 </p>
 
-### 📌 Featured Project
+### 🌍 Open Source Contributions
 
-| Project | Description | Stars |
-| :-- | :-- | :-: |
-| [**mock-type**](https://github.com/Zuckjet/mock-type) | A tool to create mock data from TypeScript interfaces | ![stars](https://img.shields.io/github/stars/Zuckjet/mock-type?style=flat-square&color=f4c430) |
+Projects I've contributed to, ranked by stars:
+
+| # | Project | Description | Stars |
+| :-: | :-- | :-- | :-: |
+| 1 | <img src="https://github.com/microsoft.png?size=40" width="20" height="20" /> [**microsoft/vscode**](https://github.com/microsoft/vscode) | Visual Studio Code | ![stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 2 | <img src="https://github.com/flutter.png?size=40" width="20" height="20" /> [**flutter/flutter**](https://github.com/flutter/flutter) | Flutter — build beautiful apps for mobile and beyond | ![stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 3 | <img src="https://github.com/microsoft.png?size=40" width="20" height="20" /> [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | TypeScript — a typed superset of JavaScript | ![stars](https://img.shields.io/github/stars/microsoft/TypeScript?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 4 | <img src="https://github.com/angular.png?size=40" width="20" height="20" /> [**angular/angular**](https://github.com/angular/angular) | Angular — deliver web apps with confidence | ![stars](https://img.shields.io/github/stars/angular/angular?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 5 | <img src="https://github.com/nuxt.png?size=40" width="20" height="20" /> [**nuxt/nuxt**](https://github.com/nuxt/nuxt) | The full-stack Vue framework | ![stars](https://img.shields.io/github/stars/nuxt/nuxt?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 6 | <img src="https://github.com/evanw.png?size=40" width="20" height="20" /> [**evanw/esbuild**](https://github.com/evanw/esbuild) | An extremely fast bundler for the web | ![stars](https://img.shields.io/github/stars/evanw/esbuild?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 7 | <img src="https://github.com/chromium.png?size=40" width="20" height="20" /> [**chromium/chromium**](https://github.com/chromium/chromium) | The Chromium browser project | ![stars](https://img.shields.io/github/stars/chromium/chromium?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 8 | <img src="https://github.com/meta.png?size=40" width="20" height="20" /> [**meta/lexical**](https://github.com/meta/lexical) | Extensible text editor framework | ![stars](https://img.shields.io/github/stars/meta/lexical?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 9 | <img src="https://github.com/TanStack.png?size=40" width="20" height="20" /> [**TanStack/router**](https://github.com/TanStack/router) | Fully type-safe router & full-stack framework | ![stars](https://img.shields.io/github/stars/TanStack/router?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 10 | <img src="https://github.com/microsoft.png?size=40" width="20" height="20" /> [**microsoft/language-server-protocol**](https://github.com/microsoft/language-server-protocol) | Language Server Protocol specification | ![stars](https://img.shields.io/github/stars/microsoft/language-server-protocol?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 11 | <img src="https://github.com/flutter-team-archive.png?size=40" width="20" height="20" /> [**flutter-team-archive/engine**](https://github.com/flutter-team-archive/engine) | The Flutter engine | ![stars](https://img.shields.io/github/stars/flutter-team-archive/engine?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 12 | <img src="https://github.com/fb55.png?size=40" width="20" height="20" /> [**fb55/htmlparser2**](https://github.com/fb55/htmlparser2) | Fast & forgiving HTML/XML parser | ![stars](https://img.shields.io/github/stars/fb55/htmlparser2?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 13 | <img src="https://github.com/SchemaStore.png?size=40" width="20" height="20" /> [**SchemaStore/schemastore**](https://github.com/SchemaStore/schemastore) | A collection of JSON schema files | ![stars](https://img.shields.io/github/stars/SchemaStore/schemastore?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 14 | <img src="https://github.com/dsphper.png?size=40" width="20" height="20" /> [**dsphper/lanhu-mcp**](https://github.com/dsphper/lanhu-mcp) | Team-collaboration MCP server for AI coding | ![stars](https://img.shields.io/github/stars/dsphper/lanhu-mcp?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 15 | <img src="https://github.com/reactjs.png?size=40" width="20" height="20" /> [**reactjs/zh-hans.react.dev**](https://github.com/reactjs/zh-hans.react.dev) | React docs in Simplified Chinese | ![stars](https://img.shields.io/github/stars/reactjs/zh-hans.react.dev?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 16 | <img src="https://github.com/webpack.png?size=40" width="20" height="20" /> [**webpack/enhanced-resolve**](https://github.com/webpack/enhanced-resolve) | Highly configurable async require.resolve | ![stars](https://img.shields.io/github/stars/webpack/enhanced-resolve?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 17 | <img src="https://github.com/HTTPArchive.png?size=40" width="20" height="20" /> [**HTTPArchive/almanac.httparchive.org**](https://github.com/HTTPArchive/almanac.httparchive.org) | HTTP Archive's annual State of the Web report | ![stars](https://img.shields.io/github/stars/HTTPArchive/almanac.httparchive.org?style=flat-square&label=%E2%AD%90&color=f4c430) |
+| 18 | <img src="https://github.com/microsoft.png?size=40" width="20" height="20" /> [**microsoft/TypeScript-TmLanguage**](https://github.com/microsoft/TypeScript-TmLanguage) | TextMate grammar for TypeScript | ![stars](https://img.shields.io/github/stars/microsoft/TypeScript-TmLanguage?style=flat-square&label=%E2%AD%90&color=f4c430) |
 
 ### 📊 GitHub Stats
 
